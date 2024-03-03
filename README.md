@@ -1,0 +1,2 @@
+# Seljuk
+Programlama ve Algoritmalar
